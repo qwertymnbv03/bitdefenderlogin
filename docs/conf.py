@@ -28,7 +28,7 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://spypointhelpcenter.readthedocs.io/'
+html_baseurl = 'https://bitdefenderlogin.readthedocs.io/'
 
 
 
